@@ -26,3 +26,6 @@ C:\>python3 -m http.server 1337
 C:\>iexplore "http://localhost:1337"
 ```
 
+You can specify which list of words you want to use by passing its name to the
+script e.g.: `% ./makecolors.sh italian`. The default one is `words`.
+
